@@ -1,0 +1,14 @@
+C:\Users\mathe\source\repos\LoggerExample\LoggerExample\bin\Debug\net8.0\LoggerExample.exe
+C:\Users\mathe\source\repos\LoggerExample\LoggerExample\bin\Debug\net8.0\LoggerExample.deps.json
+C:\Users\mathe\source\repos\LoggerExample\LoggerExample\bin\Debug\net8.0\LoggerExample.runtimeconfig.json
+C:\Users\mathe\source\repos\LoggerExample\LoggerExample\bin\Debug\net8.0\LoggerExample.dll
+C:\Users\mathe\source\repos\LoggerExample\LoggerExample\bin\Debug\net8.0\LoggerExample.pdb
+C:\Users\mathe\source\repos\LoggerExample\LoggerExample\obj\Debug\net8.0\LoggerExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\source\repos\LoggerExample\LoggerExample\obj\Debug\net8.0\LoggerExample.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\LoggerExample\LoggerExample\obj\Debug\net8.0\LoggerExample.AssemblyInfo.cs
+C:\Users\mathe\source\repos\LoggerExample\LoggerExample\obj\Debug\net8.0\LoggerExample.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\LoggerExample\LoggerExample\obj\Debug\net8.0\LoggerExample.dll
+C:\Users\mathe\source\repos\LoggerExample\LoggerExample\obj\Debug\net8.0\refint\LoggerExample.dll
+C:\Users\mathe\source\repos\LoggerExample\LoggerExample\obj\Debug\net8.0\LoggerExample.pdb
+C:\Users\mathe\source\repos\LoggerExample\LoggerExample\obj\Debug\net8.0\LoggerExample.genruntimeconfig.cache
+C:\Users\mathe\source\repos\LoggerExample\LoggerExample\obj\Debug\net8.0\ref\LoggerExample.dll
